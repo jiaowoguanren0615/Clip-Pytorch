@@ -5,7 +5,14 @@ The code mainly contains two models: ResNet-Clip & ViT-Clip, new models will be 
 [Code Reference](https://github.com/hsouri/bob-classification)
 
 ## Preparation
-Download the dataset: [flower_dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition).
+### 1.Download the dataset: 
+[flower_dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition).
+
+### 2.Install clip package
+```shell
+pip install git+https://github.com/openai/CLIP.git
+```
+
 
 ## Project Structure
 ```
