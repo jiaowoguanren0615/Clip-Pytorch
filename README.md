@@ -2,6 +2,9 @@
 This is a warehouse for Clip-Pytorch-model, can be used to train your image-datasets for classification tasks.
 The code mainly contains two models: ResNet-Clip & ViT-Clip, new models will be added in the future.
 
+## Preparation
+Download the dataset: [flower_dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition).
+
 ## Project Structure
 ```
 ├── datasets: Load datasets
